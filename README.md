@@ -11,6 +11,10 @@ O Aplicativo visa diminuir o número de trotes e também trás benefícios para 
 
 <br/>
 
+![ScreenShot](https://raw.github.com/diogo10/SAMU/master/print_2.png)
+
+<br/>
+
 ![ScreenShot](https://raw.github.com/diogo10/SAMU/master/print_4.png)
 
 
