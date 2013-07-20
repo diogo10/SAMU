@@ -11,16 +11,22 @@ O Aplicativo visa diminuir o número de trotes e também trás benefícios para 
 É possivel visualizar no mapa os hospitais mais próximos.
 <p>
 
+<br/>
+<br/>
+
+https://raw.github.com/diogo10/SAMU/print_1.png
+
+
 
 <br/>
 <br/>
 <b>Membros da Equipe</b>
 <br/>
 <ol>
-<li><a href="http://www.html.net/">Dayvison Domingos</a></li>
-<li>Diogo Henrique</li>
-<li>Paulo Luiz</li>
-<li>André Menezes</li>
+<li><a href="https://www.facebook.com/hasiksa">Dayvison Domingos</a></li>
+<li><a href="https://www.facebook.com/DiogoHenrique10">Diogo Henrique</a></li>
+<li><a href="https://www.facebook.com/pauloluizgomes">Paulo Luiz</a></li>
+<li><a href="https://www.facebook.com/andreemenezes">André Menezes</a></li>
 </ol>
 
 
