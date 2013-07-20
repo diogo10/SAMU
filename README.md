@@ -17,7 +17,7 @@ O Aplicativo visa diminuir o número de trotes e também trás benefícios para 
 <b>Membros da Equipe</b>
 <br/>
 <ol>
-<li>Dayvison Domingos</li>
+<li><link href="https://www.facebook.com/hasiksa">Dayvison Domingos</link></li>
 <li>Diogo Henrique</li>
 <li>Paulo Luiz</li>
 <li>André Menezes</li>
