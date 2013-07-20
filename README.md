@@ -7,9 +7,8 @@ SAMU-PE
 <p>
 O Aplicativo visa diminuir o número de trotes e também trás benefícios para agilizar o atendimento a ocorrências.
 É possivel visualizar no mapa os hospitais mais próximos.
-<p>
+</p>
 
-<br/>
 <br/>
 
 ![ScreenShot](https://raw.github.com/diogo10/SAMU/master/print_4.png)
