@@ -12,4 +12,15 @@ O Aplicativo visa diminuir o número de trotes e também trás benefícios para 
 <p>
 
 
+<br/>
+<br/>
+<b>Membros da Equipe</b>
+<br/>
+<ol>
+<li>Dayvison Domingos</li>
+<li>Diogo Henrique</li>
+<li>Paulo Luiz</li>
+<li>André Menezes</li>
+</ol>
+
 
