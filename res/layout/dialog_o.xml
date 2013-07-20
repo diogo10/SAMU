@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:id="@+id/list_o"
+    android:background="#FFFFFF"
+    android:clipToPadding="false"
+    android:divider="@null"
+    android:textColor="#006400"
+    android:fadingEdge="none"
+    android:dividerHeight="16dp"
+    android:padding="16dp"
+    android:scrollbarStyle="outsideOverlay" />

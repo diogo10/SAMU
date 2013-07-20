@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/card_background_white"
+    android:orientation="horizontal"
+    android:padding="14dp">
+    
+     <ImageView
+            android:id="@+id/img_card"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="9dp"
+            android:src="@drawable/profile" />
+
+   <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="6dip"
+        android:layout_marginTop="6dip"
+        android:layout_marginBottom="6dip"
+        android:layout_weight="1">
+
+       
+
+        <TextView
+            android:id="@+id/tv_nome_card"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="2dp"
+            android:singleLine="true"
+            android:text="Diogo Henrique" />
+
+        <TextView
+            android:id="@+id/tv_telefone_card"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="10dp"
+            android:singleLine="true"
+            android:text="(81) 8745-3456" />
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SAMU PE</string>
+   
+    <string name="escolha__tipo_sangue">Escolha um Tipo</string>
+    <string-array name="tipos_sangue">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>Não sei</item>
+    </string-array>
+    
+    
+
+</resources>
